@@ -1,6 +1,14 @@
+# Squatconf
+
+**April 30, 2016**
+
+*UNIX & Holistic Technologies*
+
+https://github.com/noffle/talks/blob/master/holistic.md
+
 # ArcticJS
 
-**January 20, 2015**
+**January 20, 2016**
 
 *Collaborative P2P Text Editing*
 
