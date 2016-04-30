@@ -97,7 +97,7 @@ and learn something new
 
 # ursula franklin
 
-german-canadian, quaker, pacifist, feminist
+       quaker, pacifist, feminist
 
 
 
