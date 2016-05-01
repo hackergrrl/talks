@@ -1,3 +1,6 @@
+> *best viewed with [tslide](https://github.com/dominictarr/tslide)*
+
+
 # Squatconf
 
 **April 30, 2016**
