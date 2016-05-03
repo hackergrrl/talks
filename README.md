@@ -1,13 +1,15 @@
-> *best viewed with [tslide](https://github.com/dominictarr/tslide)*
+> *slides best viewed with [tslide](https://github.com/dominictarr/tslide)*
 
 
 # Squatconf
 
-**April 30, 2016**
+**May 1, 2016**
 
 *UNIX & Holistic Technologies*
 
-https://github.com/noffle/talks/blob/master/holistic.md
+Slides: https://github.com/noffle/talks/blob/master/holistic.md
+
+Video: https://www.youtube.com/watch?v=TMfTKH7fIkU
 
 # ArcticJS
 
@@ -15,5 +17,6 @@ https://github.com/noffle/talks/blob/master/holistic.md
 
 *Collaborative P2P Text Editing*
 
-https://github.com/noffle/talks/blob/master/collab_editing.md
+Slides: https://github.com/noffle/talks/blob/master/collab_editing.md
 
+Video: https://youtu.be/RXq-WVn4DCI?list=PL3bvPCw5QCLLJUL2Q_bBI1bi9bYQ-4hci
