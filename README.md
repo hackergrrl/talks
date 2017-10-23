@@ -1,5 +1,15 @@
 > *slides best viewed with [tslide](https://github.com/dominictarr/tslide)*
 
+# State of the Map US
+
+**October 20, 2017**
+
+*Peer-to-peer Mapping for Disconnected Environments*
+
+Slides: https://github.com/noffle/talks/blob/master/sotm-2017.md
+
+Video:
+https://www.youtube.com/watch?list=PLqjPa29lMiE2k2Sp5L5rb6ntduG9dt0te&v=9PCL1rskB_w
 
 # Squatconf
 
