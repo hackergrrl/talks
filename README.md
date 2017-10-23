@@ -6,6 +6,8 @@
 
 *Peer-to-peer Mapping for Disconnected Environments*
 
+Given with [@gmaclennan](https://github.com/gmaclennan)!
+
 Slides: https://github.com/noffle/talks/blob/master/sotm-2017.md
 
 Video:
