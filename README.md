@@ -1,5 +1,15 @@
 > *slides best viewed with [tslide](https://github.com/dominictarr/tslide)*
 
+# Decentralized Web Pre-Summit Meetup
+
+**June 6, 2018**
+
+Quickie lightning talk about "what if github were owned by the open source
+community?"
+
+Notes: https://github.com/noffle/talks/blob/master/gitverse_dweb/notes.md
+Slides: https://github.com/noffle/talks/blob/master/gitverse_dweb/index.html
+
 # State of the Map US
 
 **October 20, 2017**
