@@ -1,5 +1,11 @@
 > *slides best viewed with [tslide](https://github.com/dominictarr/tslide)*
 
+# Decentralized Web Summit
+
+**August 2, 2018**
+
+Slides: https://github.com/noffle/talks/blob/master/dweb_2018/cabal.md
+
 # Decentralized Web Pre-Summit Meetup
 
 **June 6, 2018**
